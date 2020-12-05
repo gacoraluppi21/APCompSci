@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import HelloWorld123;
 public class GreaterThan50 {
 	
 	public static void main(String[] args) {
