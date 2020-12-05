@@ -83,8 +83,7 @@ public class LinkedList {
 		myList.removeHead();
 		myList.removeEnd();
 		myList.print();
-		int count = myList.countNodes();
-		System.out.println(count);
+		System.out.println(myList.countNodes());
 		System.out.println();
 		myList.removeNode(third);
 		myList.print();
